@@ -1,3 +1,5 @@
+InspectorLogbook is a java application with Embedded SQlite Database.
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
@@ -15,7 +17,11 @@ java -jar "InspectorLogbook.jar"
 
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
+
+You can click the link below to download the zip file.
+
 https://www.dropbox.com/scl/fi/p5hnkmq3yulas39avq8fc/PLB.rar?rlkey=aes4gtkoed9g9nl0vaqvk0p9b&dl=0
+
 Notes:
 
 * If two JAR files on the project classpath have the same name, only the first
