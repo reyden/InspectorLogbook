@@ -10,17 +10,31 @@ files on the projects classpath to your projects dist/lib folder. The IDE
 also adds each of the JAR files to the Class-Path element in the application
 JAR files manifest file (MANIFEST.MF).
 
-To run the project from the command line, go to the dist folder and
-type the following:
-
-java -jar "InspectorLogbook.jar" 
-
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
 
 You can click the link below to download the zip file.
 
 https://www.dropbox.com/scl/fi/p5hnkmq3yulas39avq8fc/PLB.rar?rlkey=aes4gtkoed9g9nl0vaqvk0p9b&dl=0
+
+
+To run the project from the command line, unzip the downloaded zip file,
+copy and paste it to drive C, go to the dist folder and
+type the following:
+
+java -jar "InspectorLogbook.jar" 
+
+
+
+
+
+
+
+
+
+
+
+
 
 Notes:
 
