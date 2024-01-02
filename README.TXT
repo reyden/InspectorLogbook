@@ -24,6 +24,11 @@ type the following:
 
 java -jar "InspectorLogbook.jar" 
 
+If for compatibility issue, you can download and double click to install
+the jre installer that I also provided in the link below
+
+https://www.dropbox.com/scl/fi/vfzop31qrkfij414ythbx/jre-8u92-windows-i586.exe?rlkey=7w6qstw4simk628lgtv5i7knd&dl=0
+
 
 
 
